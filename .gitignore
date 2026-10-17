@@ -1,0 +1,12 @@
+# Run outputs (logs, CSVs, paper portfolios) stay local
+*.csv
+*.log
+*.json
+data/
+outputs/
+run*/
+
+__pycache__/
+*.pyc
+.env
+.DS_Store
